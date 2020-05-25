@@ -1,0 +1,7 @@
+# Folder(s) to ignore
+/node_modules
+
+# Prefix file(s) names to ignore
+dev.
+
+package-lock.json
