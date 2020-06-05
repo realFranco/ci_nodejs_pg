@@ -28,10 +28,10 @@ app.get('/', (req, res) => {
     return res
         .status(200)
         .send({
-            result : 'ok',
-            http_code : 200,
-            msg : 'welcome to the ci_nodejs_pg rest api',
-            version : 'v1'
+            result      : 'ok',
+            http_code   : 200,
+            msg         : 'welcome to the ci_nodejs_pg rest api',
+            version     : 'v1'
         });
 });
 
