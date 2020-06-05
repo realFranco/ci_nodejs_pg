@@ -94,3 +94,7 @@ This is a resume from the digital ocean community. You can follow the complete
 tutorial, at the next link.
 
 - `digitalocen Tutorial <https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04>`__
+
+If you want to test the API inside of Postman you can do it!
+
+- `Postman Collection <https://documenter.getpostman.com/view/6474278/SztK1PsC>`__
